@@ -48,3 +48,14 @@ Terminal Page
 
 ![Screenshot_terminal2](https://user-images.githubusercontent.com/61124903/130267852-49f66a65-3e25-4f8e-be49-ae634f652523.png)
 
+
+## HTTPS Usage
+
+You can change the connection protocol to HTTPS, **C2X-HTTP** uses self-signed certificates for HTTPS connection, but you can change them.
+
+Change Certificates
+----
+
+Go to web_interface directory and replace the `cert.pem` & `key.pem` with your new certificates files.
+
+- note: **GO** lang C2X client does not work with default self-signed certificate ! `You have to change that`.

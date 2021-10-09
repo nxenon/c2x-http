@@ -33,6 +33,11 @@ Web Interface
 
 [Web README and Screenshots](https://github.com/nxenon/c2x-http/blob/main/web_interface/README.md)
 
+Use HTTPS
+----
+
+[HTTPS Usage README](https://github.com/nxenon/c2x-http/blob/main/web_interface/README.md#https-usage)
+
 Client Side
 ----
 You need some instructions for running client side codes after creating your scripts:
